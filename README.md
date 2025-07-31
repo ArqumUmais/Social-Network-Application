@@ -1,15 +1,14 @@
 # Social-Network-Application
 This C++ program implements a social media application that simulates basic social networking functionality, including user profiles, pages, posts, comments, and interactions between users. It uses plain (.txt) files for its data storage system.
 
-===================================================================================================================================================================================
-
+===========================================================================
 # User Management:
 
 Set current user by ID
 
 Display user name and profile information
 
-===================================================================================================================================================================================
+===========================================================================
 # Social Interactions:
 
 View a user's friend list
@@ -22,7 +21,7 @@ Comment on posts (10 comments maximum per post)
 
 View lists of people who liked specific posts
 
-===================================================================================================================================================================================
+===========================================================================
 # Content Viewing:
 
 View user timelines with all posts
@@ -39,7 +38,7 @@ Friends
 
 Liked pages
 
-===================================================================================================================================================================================
+===========================================================================
 # Special Features:
 
 Share memories functionality
